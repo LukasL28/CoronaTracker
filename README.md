@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="" rel="noopener">
  <img width=200px  src="./img/corona.png" alt="Project logo"></a>
 </p>
 
